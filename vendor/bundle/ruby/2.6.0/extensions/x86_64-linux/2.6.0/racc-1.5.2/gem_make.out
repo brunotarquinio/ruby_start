@@ -1,0 +1,16 @@
+current directory: /home/bruno/ruby_es/rottenpotatoes-rails-intro/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+/home/bruno/.rbenv/versions/2.6.6/bin/ruby -I /home/bruno/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20250922-131502-kv2b4o.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/bruno/ruby_es/rottenpotatoes-rails-intro/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/bruno/ruby_es/rottenpotatoes-rails-intro/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/bruno/ruby_es/rottenpotatoes-rails-intro/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250922-131502-1kr0kee/racc
